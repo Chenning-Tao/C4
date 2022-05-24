@@ -27,3 +27,7 @@ python run_con.py --do_train --do_eval --do_test --model_type roberta --model_na
 ```
 
 To run the above code, we use 3 RTX 3090, average time for each epoch is about 60 min.
+
+### python environment
+pytorch 1.9.0
+transformers 4.4.0
